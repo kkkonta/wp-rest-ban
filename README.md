@@ -1,4 +1,4 @@
-# wp-rest-ban　使用するプラグインに応じてRESTを有効化。
+# wp-rest-ban　使用するプラグインに応じてRESTを有効化a。
 
 ## howto use
 
@@ -63,5 +63,5 @@
 * /contact-form-7/v1
 * /contact-form-7/v1/contact-forms
 * /contact-form-7/v1/contact-forms/(?P<id>\d+)
-  
+ ?
 ## ※テスト　→　http://ドメイン/wp-json/wp/v2/posts/?p=1
